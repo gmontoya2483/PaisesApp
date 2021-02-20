@@ -19,10 +19,12 @@ Esta aplicación consume contenido de la API [REST Countries](https://restcountr
 * Rutas
 * RouterLink y RouterLinkActive
 * Interfaces - [quicktype](https://quicktype.io/)
+* ngClass
+* CSS condicionales
+* Animaciones CSS - [animate.css](https://animate.style/)
+* Auto-completado en busqueda de paises
 
 ## Development server
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-
+Ejecutar`ng serve` para el servidor de desarrollo. Navegar a  `http://localhost:4200/`. La aplicación será automaticamente recargada si se realizan cambios en el código fuente.
 ## Application en producción
 [PaisesApp](https://paisesapp.netlify.app/)
